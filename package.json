@@ -1,0 +1,26 @@
+{
+    "name": "open-syllabus-project-dev",
+    "version": "1.0.0",
+    "description": "OpenSyllabusStaging",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/FrancooHM/open-syllabus-project-dev.git"
+    },
+    "keywords": [
+        "syllabi"
+    ],
+    "author": "Genosha",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/FrancooHM/open-syllabus-project-dev/issues"
+    },
+    "homepage": "https://github.com/FrancooHM/open-syllabus-project-dev#readme",
+    "dependencies": {
+        "express": "^4.13.4"
+    }
+}
