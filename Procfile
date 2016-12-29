@@ -1,1 +1,1 @@
-web: git submodule update --init && npm start
+web: npm start
