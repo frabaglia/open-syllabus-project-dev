@@ -5,7 +5,7 @@ var PORT = process.env.PORT || 80
 
 app.use(express.static(path.join(__dirname + '/client/build/.')));
 
-app.get('/', function(request, response) {
+app.get('*', function (request, response){
     response.sendFile(__dirname + '/client/build/index.html')
 });
 
