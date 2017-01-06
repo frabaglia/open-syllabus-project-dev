@@ -21,8 +21,7 @@
   },
   "homepage": "https://github.com/FrancooHM/open-syllabus-project-dev#readme",
   "dependencies": {
-    "express": "^4.13.4",
-    "immutable": "^3.8.1"
+    "express": "^4.13.4"
   },
   "devDependencies": {}
 }
